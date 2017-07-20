@@ -1,0 +1,1 @@
+Some of the things did covered: constants and variables, method overrides, table views and image views, app bundles, FileManager, typecasting, arrays, loops, optionals, view controllers, storyboards, outlets, Auto Layout, UIImage and more.

@@ -1,0 +1,1 @@
+In this project revisited: Interface Builder, Auto Layout, outlets and other things, but at the same time you've learned about @2x and @3x images, asset catalogs, integers, doubles, floats, operators (+= and -=), UIButton, enums, CALayer, UIColor, random numbers, actions, string interpolation, UIAlertController, and more. And you have a finished game too!

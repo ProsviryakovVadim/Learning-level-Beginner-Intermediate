@@ -12,4 +12,8 @@
 - ~~CALayer~~
 - ~~UIColor~~
 - ~~UIAlertController~~
+#### 3. Project 3: Social Media
+- ~~UIBarButtonItem~~
+- ~~UIActivityViewController~~
+- ~~URL~~
 

@@ -16,4 +16,10 @@
 - ~~UIBarButtonItem~~
 - ~~UIActivityViewController~~
 - ~~URL~~
-
+#### 4. Project 4: Easy Browser
+- ~~loadView()~~
+- ~~WKWebView~~
+- ~~URLRequest~~
+- ~~UIToolbar~~
+- ~~UIProgressView~~
+- ~~key-value observing~~

@@ -1,0 +1,1 @@
+In this project learned: more about UITableView: how to reload their data and how to insert rows, how to add text fields to UIAlertController so that can accept user input, also learned more about Swift strings, closures, method return values, booleans, NSRange, and more.

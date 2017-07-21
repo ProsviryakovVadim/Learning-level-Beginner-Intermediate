@@ -22,4 +22,9 @@
 - ~~URLRequest~~
 - ~~UIToolbar~~
 - ~~UIProgressView~~
-- ~~key-value observing~~
+- ~~Key-value observing~~
+#### 5. Project 5: Word Scramble
+- ~~Closures~~
+- ~~Method return values~~
+- ~~Booleans~~
+- ~~NSRange~~

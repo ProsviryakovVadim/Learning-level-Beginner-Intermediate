@@ -28,3 +28,7 @@
 - ~~Method return values~~
 - ~~Booleans~~
 - ~~NSRange~~
+#### 6. Project 6: Auto Layout
+- ~~NSLayoutConstraint~~
+- ~~Visual Format Language~~
+- ~~layout anchors~~

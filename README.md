@@ -32,3 +32,7 @@
 - ~~NSLayoutConstraint~~
 - ~~Visual Format Language~~
 - ~~layout anchors~~
+#### 7. Project 7: Whitehouse Petitions
+- ~~JSON~~
+- ~~Data~~
+- ~~UITabBarController~~

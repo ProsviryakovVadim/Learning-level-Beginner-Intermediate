@@ -36,3 +36,11 @@
 - ~~JSON~~
 - ~~Data~~
 - ~~UITabBarController~~
+#### 8. Project 8: Swifty Words
+- ~~addTarget()~~
+- ~~enumerated()~~
+- ~~count()~~
+- ~~index(of:)~~
+- ~~joined()~~
+- ~~property observers~~
+- ~~range operators~~

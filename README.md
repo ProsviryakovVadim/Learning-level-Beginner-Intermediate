@@ -44,3 +44,6 @@
 - ~~joined()~~
 - ~~property observers~~
 - ~~range operators~~
+#### 9. Project 9: Grand Central Dispatch
+- ~~DispatchQueue~~
+- ~~performSelector(inBackground:)~~

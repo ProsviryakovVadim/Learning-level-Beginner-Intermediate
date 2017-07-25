@@ -1,6 +1,6 @@
 //
-//  ViewController.swift
-//  Project 9: Grand Central Dispatch
+//  DetailViewController.swift
+//  Project 7: Whitehouse Petitions
 //
 //  Created by Vadim on 7/24/17.
 //  Copyright © 2017 Vadim Prosviryakov. All rights reserved.

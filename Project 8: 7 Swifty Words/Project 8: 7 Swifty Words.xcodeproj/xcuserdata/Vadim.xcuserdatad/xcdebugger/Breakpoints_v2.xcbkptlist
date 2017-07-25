@@ -2,4 +2,365 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599287.074756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "submitTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599287.618489"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "submitTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599778.453678"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599857.576626"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of Project_8__7_Swifty_Words.ViewController.letterButtons : Swift.Array&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.004466"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.letterButtons.getter : Swift.Array&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.007512"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.letterButtons.setter : Swift.Array&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.011387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Project_8__7_Swifty_Words.ViewController"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.013097"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "571">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Project_8__7_Swifty_Words.ViewController&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.014691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599858.240405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of Project_8__7_Swifty_Words.ViewController.activatedButtons : Swift.Array&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.769076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.activatedButtons.getter : Swift.Array&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.771179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.activatedButtons.setter : Swift.Array&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.773421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Project_8__7_Swifty_Words.ViewController"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.776331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "689">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Project_8__7_Swifty_Words.ViewController&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599858.780012"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "590">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599859.394507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of Project_8__7_Swifty_Words.ViewController.solutions : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599859.917978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.solutions.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599859.919811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.solutions.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599859.921292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Project_8__7_Swifty_Words.ViewController"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599859.92282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "799">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_8__7_Swifty_Words.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Project_8__7_Swifty_Words.ViewController&gt;"
+                  moduleName = "Project 8: 7 Swifty Words"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vadim/Desktop/Learning%20level%20%7C%20Beginner%20%E2%80%93%20Intermediate/Project%208:%207%20Swifty%20Words/Project%208:%207%20Swifty%20Words/ViewController.swift"
+                  timestampString = "522599859.924668"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599861.706393"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "submitTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project 8: 7 Swifty Words/ViewController.swift"
+            timestampString = "522599864.758379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "levelUp(action:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

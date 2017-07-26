@@ -47,3 +47,8 @@
 #### 9. Project 9: Grand Central Dispatch
 - ~~DispatchQueue~~
 - ~~performSelector(inBackground:)~~
+#### 10. Project 10: Names to Faces
+- ~~UICollectionView~~
+- ~~UIImagePickerController~~
+- ~~UUID~~
+- ~~Custom classes~~
